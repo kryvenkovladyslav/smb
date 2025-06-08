@@ -4,10 +4,10 @@
 		<TargetFramework>net9.0</TargetFramework>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
-
+	
 	<ItemGroup>
-	  <ProjectReference Include="..\SMB.Abstract\SMB.Abstract.csproj" />
-	  <ProjectReference Include="..\SMB.Contracts\SMB.Contracts.csproj" />
+		<ProjectReference Include="..\SMB.Abstract\SMB.Abstract.csproj" />
+		<ProjectReference Include="..\SMB.Contracts\SMB.Contracts.csproj" />
 	</ItemGroup>
 
 </Project>

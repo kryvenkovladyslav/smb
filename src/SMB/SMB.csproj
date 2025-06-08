@@ -6,7 +6,7 @@
 	</PropertyGroup>
 	
 	<ItemGroup>
-	  <ProjectReference Include="..\SMB.DependencyInjection\SMB.DependencyInjection.csproj" />
+		<ProjectReference Include="..\SMB.DependencyInjection\SMB.DependencyInjection.csproj" />
 	</ItemGroup>
 
 </Project>
